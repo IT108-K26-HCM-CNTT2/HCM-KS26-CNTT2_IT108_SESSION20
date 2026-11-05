@@ -1,4 +1,3 @@
-# Bài Tập Thực Hành Session 17 - Lập Trình Web / Mạng Máy Tính
 
 ## 1. Thiết kế kiến trúc MFA & TOTP cho Crypto Wallet
 - **Sơ đồ luồng dữ liệu bảo vệ 3 lớp:**
