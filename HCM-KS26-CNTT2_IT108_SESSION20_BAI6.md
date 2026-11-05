@@ -1,4 +1,4 @@
-# Bài Tập Thực Hành Session 17 - Lập Trình Web / Mạng Máy Tính
+
 
 ## 1. Pre-push Checklist rà soát API Keys
 - [ ] Kiểm tra toàn bộ mã nguồn trước khi push bằng công cụ quét tự động (`git-secrets` hoặc `trufflehog`).
